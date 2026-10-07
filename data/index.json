@@ -1,0 +1,28 @@
+{
+  "sets": [
+    {
+      "id": "E1",
+      "name": "第1弾",
+      "dataVersion": 1,
+      "cardCount": 85
+    },
+    {
+      "id": "E2",
+      "name": "第2弾",
+      "dataVersion": 1,
+      "cardCount": 0
+    },
+    {
+      "id": "E3",
+      "name": "第3弾",
+      "dataVersion": 1,
+      "cardCount": 0
+    },
+    {
+      "id": "promo",
+      "name": "プロモーション",
+      "dataVersion": 1,
+      "cardCount": 0
+    }
+  ]
+}

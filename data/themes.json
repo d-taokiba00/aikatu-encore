@@ -1,0 +1,26 @@
+[
+  {
+    "id": "spring",
+    "name": "春"
+  },
+  {
+    "id": "summer",
+    "name": "夏"
+  },
+  {
+    "id": "autumn",
+    "name": "秋"
+  },
+  {
+    "id": "winter",
+    "name": "冬"
+  },
+  {
+    "id": "halloween",
+    "name": "ハロウィン"
+  },
+  {
+    "id": "christmas",
+    "name": "クリスマス"
+  }
+]
