@@ -1,0 +1,10 @@
+{
+  "name": "アイカツ！アンコール カード管理",
+  "short_name": "アイカツ！アンコール",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f0e8",
+  "theme_color": "#f6f0e8",
+  "lang": "ja",
+  "icons": []
+}

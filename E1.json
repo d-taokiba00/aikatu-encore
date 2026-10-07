@@ -1,0 +1,852 @@
+[
+  {
+    "id": "E1-01",
+    "name": "オーロラキスキャミソール",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "プレミアムレア",
+    "category": "トップス",
+    "appealPoint": 1100
+  },
+  {
+    "id": "E1-02",
+    "name": "オーロラキスドレープスカート",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "プレミアムレア",
+    "category": "ボトムス",
+    "appealPoint": 1000
+  },
+  {
+    "id": "E1-03",
+    "name": "オーロラキスバレエシューズ",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "プレミアムレア",
+    "category": "シューズ",
+    "appealPoint": 950
+  },
+  {
+    "id": "E1-04",
+    "name": "オーロラキスリボン",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "プレミアムレア",
+    "category": "アクセサリー",
+    "appealPoint": 600
+  },
+  {
+    "id": "E1-05",
+    "name": "アイスブルーフリルキャミソール",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "トップス",
+    "appealPoint": 600
+  },
+  {
+    "id": "E1-06",
+    "name": "アイスブルーフリルパニエ",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "ボトムス",
+    "appealPoint": 750
+  },
+  {
+    "id": "E1-07",
+    "name": "アイスブルーシューズ",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "シューズ",
+    "appealPoint": 750
+  },
+  {
+    "id": "E1-08",
+    "name": "ジュエルつきパープルリボン",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "アクセサリー",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-09",
+    "name": "小花柄イエローワンピ",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "トップス&ボトムス",
+    "appealPoint": 1450
+  },
+  {
+    "id": "E1-10",
+    "name": "ドリーミースタートップス",
+    "character": null,
+    "brand": "ドリーミークラウン",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "トップス",
+    "appealPoint": 750
+  },
+  {
+    "id": "E1-11",
+    "name": "ドリーミースタースカート",
+    "character": null,
+    "brand": "ドリーミークラウン",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "ボトムス",
+    "appealPoint": 850
+  },
+  {
+    "id": "E1-12",
+    "name": "ドリーミースターパンプス",
+    "character": null,
+    "brand": "ドリーミークラウン",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "シューズ",
+    "appealPoint": 700
+  },
+  {
+    "id": "E1-13",
+    "name": "チャーミーリボントップス",
+    "character": null,
+    "brand": "メープルリボン",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "トップス",
+    "appealPoint": 650
+  },
+  {
+    "id": "E1-14",
+    "name": "チャーミーリボンスカート",
+    "character": null,
+    "brand": "メープルリボン",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "ボトムス",
+    "appealPoint": 700
+  },
+  {
+    "id": "E1-15",
+    "name": "チャーミーリボンサンダル",
+    "character": null,
+    "brand": "メープルリボン",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "シューズ",
+    "appealPoint": 750
+  },
+  {
+    "id": "E1-16",
+    "name": "チャーミーリボンアクセ",
+    "character": null,
+    "brand": "メープルリボン",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "アクセサリー",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-17",
+    "name": "クリアネスイエロートップス",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "トップス",
+    "appealPoint": 700
+  },
+  {
+    "id": "E1-18",
+    "name": "クリアネスイエロースカート",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "ボトムス",
+    "appealPoint": 750
+  },
+  {
+    "id": "E1-19",
+    "name": "クリアネスイエローパンプス",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "シューズ",
+    "appealPoint": 850
+  },
+  {
+    "id": "E1-20",
+    "name": "クリアネスイエローアクセ",
+    "character": null,
+    "brand": "エンジェリーシュガー",
+    "type": "キュート",
+    "rarity": "レア",
+    "category": "アクセサリー",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-21",
+    "name": "ピンクステージベスト",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 500
+  },
+  {
+    "id": "E1-22",
+    "name": "ピンクステージスカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-23",
+    "name": "ピンクステージシューズ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 550
+  },
+  {
+    "id": "E1-24",
+    "name": "パフスリーブレモンカラーボレロ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-25",
+    "name": "ラベンダーフリルスカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-26",
+    "name": "イエロー編み上げブーツ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 550
+  },
+  {
+    "id": "E1-27",
+    "name": "ピンクブロッサムトップス",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 500
+  },
+  {
+    "id": "E1-28",
+    "name": "ピンクブロッサムスカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-29",
+    "name": "ピンクブロッサムブーツ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "キュート",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 550
+  },
+  {
+    "id": "E1-30",
+    "name": "オデットスワン",
+    "character": null,
+    "brand": "ドリーミークラウン",
+    "type": "キュート",
+    "rarity": "アンコールレア",
+    "category": "フルコーデ",
+    "appealPoint": 3650
+  },
+  {
+    "id": "E1-31",
+    "name": "リトルリボンストーリー",
+    "character": null,
+    "brand": "メープルリボン",
+    "type": "キュート",
+    "rarity": "アンコールレア",
+    "category": "フルコーデ",
+    "appealPoint": 3650
+  },
+  {
+    "id": "E1-32",
+    "name": "オーロラペガサス",
+    "character": null,
+    "brand": null,
+    "type": "キュート",
+    "rarity": "アンコールレア",
+    "category": "フルコーデ",
+    "appealPoint": 3650
+  },
+  {
+    "id": "E1-33",
+    "name": "天の川コズミックワンショルダー",
+    "character": null,
+    "brand": "フューチャリングガール",
+    "type": "クール",
+    "rarity": "プレミアムレア",
+    "category": "トップス",
+    "appealPoint": 1100
+  },
+  {
+    "id": "E1-34",
+    "name": "天の川コズミックスカート",
+    "character": null,
+    "brand": "フューチャリングガール",
+    "type": "クール",
+    "rarity": "プレミアムレア",
+    "category": "ボトムス",
+    "appealPoint": 850
+  },
+  {
+    "id": "E1-35",
+    "name": "天の川コズミックブーツ",
+    "character": null,
+    "brand": "フューチャリングガール",
+    "type": "クール",
+    "rarity": "プレミアムレア",
+    "category": "シューズ",
+    "appealPoint": 1000
+  },
+  {
+    "id": "E1-36",
+    "name": "天の川コズミックカチューシャ",
+    "character": null,
+    "brand": "フューチャリングガール",
+    "type": "クール",
+    "rarity": "プレミアムレア",
+    "category": "アクセサリー",
+    "appealPoint": 600
+  },
+  {
+    "id": "E1-37",
+    "name": "プリズムサイバーグラフィックワンピ",
+    "character": null,
+    "brand": "フューチャリングガール",
+    "type": "クール",
+    "rarity": "レア",
+    "category": "トップス&ボトムス",
+    "appealPoint": 1450
+  },
+  {
+    "id": "E1-38",
+    "name": "ブラックモダンボレロ",
+    "character": null,
+    "brand": "フューチャリングガール",
+    "type": "クール",
+    "rarity": "レア",
+    "category": "トップス",
+    "appealPoint": 700
+  },
+  {
+    "id": "E1-39",
+    "name": "ブラックフューチャーエナメルショートパンツ",
+    "character": null,
+    "brand": "フューチャリングガール",
+    "type": "クール",
+    "rarity": "レア",
+    "category": "ボトムス",
+    "appealPoint": 750
+  },
+  {
+    "id": "E1-40",
+    "name": "ブラックフューチャーブーツ",
+    "character": null,
+    "brand": "フューチャリングガール",
+    "type": "クール",
+    "rarity": "レア",
+    "category": "シューズ",
+    "appealPoint": 850
+  },
+  {
+    "id": "E1-41",
+    "name": "ブルーステージブラウス",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-42",
+    "name": "ブルーステージスカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 500
+  },
+  {
+    "id": "E1-43",
+    "name": "ブルーステージブーツ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 550
+  },
+  {
+    "id": "E1-44",
+    "name": "ブラックストライプジャケット",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-45",
+    "name": "ダイヤモンドチェックミニ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-46",
+    "name": "ブルーストラップシューズ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-47",
+    "name": "ネイビーブロッサムトップス",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-48",
+    "name": "ネイビーブロッサムスカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 500
+  },
+  {
+    "id": "E1-49",
+    "name": "ネイビーブロッサムブーツ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "クール",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 550
+  },
+  {
+    "id": "E1-50",
+    "name": "ドリームエミネンス",
+    "character": null,
+    "brand": null,
+    "type": "クール",
+    "rarity": "アンコールレア",
+    "category": "フルコーデ",
+    "appealPoint": 3650
+  },
+  {
+    "id": "E1-51",
+    "name": "レジェンダリールージュドレス",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "トップス&ボトムス",
+    "appealPoint": 2000
+  },
+  {
+    "id": "E1-52",
+    "name": "レジェンダリールージュパンプス",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "シューズ",
+    "appealPoint": 1650
+  },
+  {
+    "id": "E1-53",
+    "name": "アゲハレッドコクーンワンピ",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "レア",
+    "category": "トップス&ボトムス",
+    "appealPoint": 1450
+  },
+  {
+    "id": "E1-54",
+    "name": "アゲハレッドミュール",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "レア",
+    "category": "シューズ",
+    "appealPoint": 650
+  },
+  {
+    "id": "E1-55",
+    "name": "パープルジュエリーワンピ",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "レア",
+    "category": "トップス&ボトムス",
+    "appealPoint": 1450
+  },
+  {
+    "id": "E1-56",
+    "name": "ゴールドチェーングラディエーター",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "レア",
+    "category": "シューズ",
+    "appealPoint": 650
+  },
+  {
+    "id": "E1-57",
+    "name": "アゲハロゴフリルトップス",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "レア",
+    "category": "トップス",
+    "appealPoint": 700
+  },
+  {
+    "id": "E1-58",
+    "name": "アゲハファーつきスカート",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "レア",
+    "category": "ボトムス",
+    "appealPoint": 750
+  },
+  {
+    "id": "E1-59",
+    "name": "ブラックシフォンカチューシャ",
+    "character": null,
+    "brand": "スパイシーアゲハ",
+    "type": "セクシー",
+    "rarity": "レア",
+    "category": "アクセサリー",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-60",
+    "name": "パープルステージトップス",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 500
+  },
+  {
+    "id": "E1-61",
+    "name": "パープルステージスカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 550
+  },
+  {
+    "id": "E1-62",
+    "name": "パープルステージニーハイパンプス",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-63",
+    "name": "プッチがらシャイニングトップス",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-64",
+    "name": "ブラックウォッシュデニムミニ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-65",
+    "name": "セクシーロゴチューブトップ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-66",
+    "name": "ベルトつきレザースカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 450
+  },
+  {
+    "id": "E1-67",
+    "name": "サイハイレザーブーツ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-68",
+    "name": "パープルブロッサムトップス",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 500
+  },
+  {
+    "id": "E1-69",
+    "name": "パープルブロッサムスカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 550
+  },
+  {
+    "id": "E1-70",
+    "name": "パープルブロッサムブーツ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "セクシー",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-71",
+    "name": "サンシャインスターウェイトップス",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "トップス",
+    "appealPoint": 1000
+  },
+  {
+    "id": "E1-72",
+    "name": "サンシャインスターウェイスカート",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "ボトムス",
+    "appealPoint": 1100
+  },
+  {
+    "id": "E1-73",
+    "name": "サンシャインスターウェイシューズ",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "シューズ",
+    "appealPoint": 950
+  },
+  {
+    "id": "E1-74",
+    "name": "サンシャインスターウェイカチューシャ",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "アクセサリー",
+    "appealPoint": 600
+  },
+  {
+    "id": "E1-75",
+    "name": "サンライズスターウェイトップス",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "トップス",
+    "appealPoint": 1100
+  },
+  {
+    "id": "E1-76",
+    "name": "サンライズスターウェイスカート",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "ボトムス",
+    "appealPoint": 850
+  },
+  {
+    "id": "E1-77",
+    "name": "サンライズスターウェイシューズ",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "シューズ",
+    "appealPoint": 1000
+  },
+  {
+    "id": "E1-78",
+    "name": "サンライズスターウェイカチューシャ",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "アクセサリー",
+    "appealPoint": 600
+  },
+  {
+    "id": "E1-79",
+    "name": "サンセットスターウェイトップス",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "トップス",
+    "appealPoint": 950
+  },
+  {
+    "id": "E1-80",
+    "name": "サンセットスターウェイスカート",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "ボトムス",
+    "appealPoint": 950
+  },
+  {
+    "id": "E1-81",
+    "name": "サンセットスターウェイシューズ",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "シューズ",
+    "appealPoint": 1100
+  },
+  {
+    "id": "E1-82",
+    "name": "サンセットスターウェイカチューシャ",
+    "character": null,
+    "brand": null,
+    "type": "セクシー",
+    "rarity": "プレミアムレア",
+    "category": "アクセサリー",
+    "appealPoint": 600
+  },
+  {
+    "id": "E1-83",
+    "name": "イエローブロッサムトップス",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "ポップ",
+    "rarity": "ノーマル",
+    "category": "トップス",
+    "appealPoint": 400
+  },
+  {
+    "id": "E1-84",
+    "name": "イエローブロッサムスカート",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "ポップ",
+    "rarity": "ノーマル",
+    "category": "ボトムス",
+    "appealPoint": 550
+  },
+  {
+    "id": "E1-85",
+    "name": "イエローブロッサムブーツ",
+    "character": null,
+    "brand": "ノーブランド",
+    "type": "ポップ",
+    "rarity": "ノーマル",
+    "category": "シューズ",
+    "appealPoint": 500
+  }
+]
